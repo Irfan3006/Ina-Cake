@@ -1,10 +1,10 @@
-# InaCake Landing Page
+# Ina Gantini Cookies Landing Page
 
-Welcome to **InaCake** – your go-to destination for delicious and high-quality Christmas cakes to complement your special Christmas moments. Check out the live demo: [InaCake Landing Page](https://inagantinicookies.vercel.app/).
+Welcome to **Ina Gantini Cookies** – your go-to destination for delicious and high-quality Christmas cakes to complement your special Christmas moments. Check out the live demo: [Ina Gantini Cookies Landing Page](https://inagantinicookies.vercel.app/).
 
 ## About the Project
 
-This landing page was designed with the intention of showcasing the beauty and quality of **InaCake**’s products in a simple, elegant, and user-friendly manner. We wanted to create a seamless experience for visitors looking to explore our Christmas cakes, with a focus on both aesthetics and functionality.
+This landing page was designed with the intention of showcasing the beauty and quality of **Ina Gantini Cookies** products in a simple, elegant, and user-friendly manner. We wanted to create a seamless experience for visitors looking to explore our Christmas cakes, with a focus on both aesthetics and functionality.
 
 ## Web Design & Features
 
@@ -29,11 +29,11 @@ A big **thank you** to [**BootstrapMade**](https://bootstrapmade.com/) for their
 
 ## Live Demo
 
-Check out the live demo of the landing page here: [InaCake Landing Page](https://inagantinicookies.vercel.app/)
+Check out the live demo of the landing page here: [Ina Gantini Cookies Landing Page](https://inagantinicookies.vercel.app/)
 
 ## Conclusion
 
-Whether you're looking for a delicious gift for loved ones or a treat for yourself, **InaCake** has something special for every Christmas celebration. We hope this landing page gives you an easy and enjoyable way to explore and order our products.
+Whether you're looking for a delicious gift for loved ones or a treat for yourself, **Ina Gantini Cookies** has something special for every Christmas celebration. We hope this landing page gives you an easy and enjoyable way to explore and order our products.
 
 Feel free to get in touch with us for more information or to place an order.
 
